@@ -1,0 +1,2 @@
+// Below is what a function looks like:// for function name, convention is to use lowerCamelCase where each word (except the first) begins with a capital letter.// Every line of code inside the function must end with a ;. as well as when calling a function
+var greeting = function (name) {    console.log("Great to see you," + " " + name);};// Call the greeting function!greeting("Cathy");

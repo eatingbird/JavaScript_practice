@@ -1,0 +1,1 @@
+// Double back slash is for quotation.// below code, when inputted "Cathy" will print "You are me!"// note that there are no colons at the end of the sentences// notice if has paranthesis around the condition if (prompt("what is your name?") === "Cathy"){    console.log("You are me!");}else{    console.log("Then you are not me.")}
